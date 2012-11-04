@@ -1142,3 +1142,136 @@ in /home/marin/nutrition-site/application/protected/controllers/SiteController.p
 2012/11/04 17:04:58 [trace] [system.CModule] Loading "clientScript" application component
 in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
 in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:12:07 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:12:07 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:12:07 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:12:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (2)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:12:07 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+2012/11/04 17:12:07 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+2012/11/04 17:12:07 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (134)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+2012/11/04 17:12:07 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:14:09 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:14:09 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:14:09 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:14:09 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (2)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:14:09 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+2012/11/04 17:14:09 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+2012/11/04 17:14:09 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (131)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+2012/11/04 17:14:09 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:08 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:08 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:08 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (2)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:08 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+2012/11/04 17:17:08 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+2012/11/04 17:17:08 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (131)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+2012/11/04 17:17:08 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (32)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:09 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:09 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:09 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:09 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (23)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:09 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (30)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:09 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (52)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:17:09 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+2012/11/04 17:17:09 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+2012/11/04 17:17:09 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:21:33 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:21:33 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:21:33 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:21:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (23)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:21:33 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (30)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:21:33 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (52)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 17:21:33 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+2012/11/04 17:21:33 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+2012/11/04 17:21:33 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
