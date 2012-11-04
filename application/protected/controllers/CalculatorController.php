@@ -1,6 +1,6 @@
 <?php
 
-class CalendarController extends ONSController
+class CalculatorController extends ONSController
 {
 
 	public function actionIndex()
@@ -19,10 +19,10 @@ class CalendarController extends ONSController
       array('allow', // allow authenticated users to access all actions
         'users'=>array('@'),
       ),
-      /*array('allow',
+      array('allow',
         'actions'=>array('index'),
         'users'=>array('?'),
-      ),*/
+      ),
       array('deny'),
     );
   }
