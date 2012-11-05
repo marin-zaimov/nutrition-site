@@ -7,6 +7,7 @@
  * @property integer $id
  * @property string $email
  * @property string $password
+ * @property string $salt
  * @property string $firstName
  * @property string $lastName
  * @property string $birthDate
@@ -18,7 +19,7 @@
  * @property Purchases[] $purchases
  * @property UserGuidebookInputs[] $userGuidebookInputs
  */
-class Users extends CActiveRecord
+class Users extends ONSModel
 {
 	/**
 	 * Returns the static model of the specified AR class.
@@ -47,13 +48,13 @@ class Users extends CActiveRecord
 		// will receive user inputs.
 		return array(
 			array('email', 'required'),
-			array('email, password', 'length', 'max'=>255),
+			array('email, password, salt', 'length', 'max'=>255),
 			array('firstName, lastName, phoneNumber', 'length', 'max'=>45),
 			array('gender', 'length', 'max'=>1),
 			array('birthDate, creationDate', 'safe'),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('id, email, password, firstName, lastName, birthDate, gender, creationDate, phoneNumber', 'safe', 'on'=>'search'),
+			array('id, email, password, salt, firstName, lastName, birthDate, gender, creationDate, phoneNumber', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -79,6 +80,7 @@ class Users extends CActiveRecord
 			'id' => 'ID',
 			'email' => 'Email',
 			'password' => 'Password',
+			'salt' => 'Salt',
 			'firstName' => 'First Name',
 			'lastName' => 'Last Name',
 			'birthDate' => 'Birth Date',
@@ -102,6 +104,7 @@ class Users extends CActiveRecord
 		$criteria->compare('id',$this->id);
 		$criteria->compare('email',$this->email,true);
 		$criteria->compare('password',$this->password,true);
+		$criteria->compare('salt',$this->salt,true);
 		$criteria->compare('firstName',$this->firstName,true);
 		$criteria->compare('lastName',$this->lastName,true);
 		$criteria->compare('birthDate',$this->birthDate,true);
@@ -112,5 +115,35 @@ class Users extends CActiveRecord
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
 		));
+	}
+	
+	public static function getByEmail($email, $throwNotFoundException = true) 
+	{
+		$user = null;
+		if(strlen($email) > 0) {
+			$user = Users::model()->byEmail($email)->find();
+		}
+		
+		return $user;
+	}
+      
+	// SCOPING METHODS
+	public function byEmail($email) 
+	{
+		$this->getDbCriteria()->addCondition("email = '{$email}'");
+		return $this;
+	}
+	
+	public function verifyPassword($pw) 
+	{
+		$salt = $this->salt;
+    $usersPW = $this->password;
+		$passwordVerified = false;
+		
+		if(PasswordHelper::hashPassword($pw, $salt) === $usersPW) {
+			$passwordVerified = true;
+		}
+		
+		return $passwordVerified;
 	}
 }

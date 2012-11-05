@@ -23,12 +23,12 @@ class WebUser extends CWebUser {
   }
  
   // Load user model.
-  protected function loadUser($id=null)
+  protected function getModel()
     {
         if($this->_model===null)
         {
-            if($id!==null)
-                $this->_model=User::model()->findByPk($id);
+            if($this->id!==null)
+                $this->_model=Users::model()->findByPk($this->id);
         }
         return $this->_model;
     }

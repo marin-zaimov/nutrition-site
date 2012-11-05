@@ -64,8 +64,12 @@
 <?php
   $urls = array(
     'calculator' => array('name' => 'Calculator', 'url' => Yii::app()->request->baseUrl .'/index.php/calculator/index'),
+    'intro' => array('name' => 'Introduction Page', 'url' => Yii::app()->request->baseUrl .'/index.php/calcSections/renderSection?view=introduction'),
     'login' => array('name' => 'Login/Register', 'url' => Yii::app()->request->baseUrl .'/index.php/site/login'),
     'logout' => array('name' => 'Logout ('.Yii::app()->user->name.')', 'url' => Yii::app()->request->baseUrl .'/index.php/site/logout'),
+    
+    'createUser' => array('name' => 'Create User', 'url' => Yii::app()->request->baseUrl .'/index.php/user/newUser'),
+    
   );
     
   function createNavLi($index, $urls) {
@@ -87,20 +91,20 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a class="brand" href="#">Maui Telescope</a>
+      <a class="brand" href="#">ONS Guidebook</a>
       <div class="nav-collapse">
         <ul class="nav pull-right">
+          <?php echo createNavLi('createUser', $urls); ?>
         <?php if (Yii::app()->user->isGuest): ?>
           <?php echo createNavLi('login', $urls); ?>
         <?php else: ?> 
+          <?php echo createNavLi('intro', $urls); ?>
           <?php echo createNavLi('calculator', $urls); ?>
           <li class="dropdown <? ((strpos($_SERVER['REQUEST_URI'], $urls['profile']['url'])===0)
-                 || (strpos($_SERVER['REQUEST_URI'], $urls['reservations']['url'])===0)
                   || (strpos($_SERVER['REQUEST_URI'], $urls['photoGallery']['url'])===0)) ? 'active' : ''?>">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">My Account <b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="#">My Profile</a></li>
-              <li><a href="#">My Reservations</a></li>
               <li><a href="#">My Photo Gallery</a></li>
             </ul>
           </li>
