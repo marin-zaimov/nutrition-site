@@ -2,26 +2,6 @@
 
 class CalcSectionsController extends ONSController
 {
-  private $views = array(
-    'introduction' => 'url',
-    'definingSportsNutrition' => 'url',
-    'calories' => 'url',
-    'nutritionGoal' => 'url',
-    'hydration' => 'url',
-    'meals' => 'url',
-    'nutritionRatios' => 'url',
-    'nutrientRatioFoodSources' => 'url',
-    'sleepRest' => 'url',
-    'startPlan' => 'url',
-    'servingSize' => 'url',
-    'smartPhoneApp' => 'url',
-    'beforeAfterPics' => 'url',
-    'printProfile' => 'url',
-  );
-	public function actionIndex()
-	{
-		$this->render('index');
-	}
 	
 	public function actionRenderSection()
 	{
@@ -74,16 +54,17 @@ class CalcSectionsController extends ONSController
 	
 	public function getIntroductionData()
 	{
-	  return array(
+	  $result = array(
 	    'imgUrl' => "/images/calcSections/introduction.jpg",
 	    'viewToRender' => 'introduction',
 	    'subViewVars' => array('testVar' => 'test variable print'),
 	  );
+	  return $result;
 	}
 	
 	public function getDefiningSportsNutritionData()
 	{
-	  
+	  //add code here as shown above to get variables for this view file
 	}
 	
 	public function filters()
