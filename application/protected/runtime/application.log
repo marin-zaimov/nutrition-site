@@ -1275,3 +1275,703 @@ in /home/marin/nutrition-site/application/protected/controllers/SiteController.p
 2012/11/04 17:21:33 [trace] [system.CModule] Loading "assetManager" application component
 in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
 in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:02 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:18:06 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:03 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:15 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:20:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:04 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:05 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:19 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:20 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:38 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:39 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:21:40 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:05 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:23:11 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "db" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `products`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `purchases`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `userGuidebookInputs`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.base.CModule] Loading "gii" module
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (23)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (30)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (52)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+2012/11/04 18:52:56 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:58:05 [trace] [system.CModule] Loading "log" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:58:05 [trace] [system.CModule] Loading "request" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:58:05 [trace] [system.CModule] Loading "urlManager" application component
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:58:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (23)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:58:05 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (30)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:58:05 [trace] [system.CModule] Loading "clientScript" application component
+in /home/marin/nutrition-site/application/protected/views/site/login.php (52)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
+2012/11/04 18:58:05 [trace] [system.CModule] Loading "user" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+2012/11/04 18:58:05 [trace] [system.CModule] Loading "session" application component
+in /home/marin/nutrition-site/application/protected/views/layouts/main.php (68)
+in /home/marin/nutrition-site/application/protected/views/layouts/column1.php (6)
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+2012/11/04 18:58:05 [trace] [system.CModule] Loading "assetManager" application component
+in /home/marin/nutrition-site/application/protected/controllers/SiteController.php (98)
+in /home/marin/nutrition-site/application/index.php (13)
