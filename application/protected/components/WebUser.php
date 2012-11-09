@@ -17,7 +17,7 @@ class WebUser extends CWebUser {
   // This is a function that checks the field 'role'
   // in the User model to be equal to 1, that means it's admin
   // access it by Yii::app()->user->isAdmin()
-  function isAdmin(){
+  function isAdmin() {
     $user = $this->loadUser(Yii::app()->user->id);
     return intval($user->role) == 1;
   }

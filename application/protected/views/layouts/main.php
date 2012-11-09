@@ -14,6 +14,7 @@
 
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css" />
+  <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/site.css" />
 	
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/plugins/bootstrap.min.css" />
   <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/plugins/bootstrap-responsive.css" rel="stylesheet">
@@ -64,7 +65,6 @@
 <?php
   $urls = array(
     'calculator' => array('name' => 'Calculator', 'url' => Yii::app()->request->baseUrl .'/index.php/calculator/index'),
-    'intro' => array('name' => 'Introduction Page', 'url' => Yii::app()->request->baseUrl .'/index.php/calcSections/renderSection?view=introduction'),
     'login' => array('name' => 'Login/Register', 'url' => Yii::app()->request->baseUrl .'/index.php/site/login'),
     'logout' => array('name' => 'Logout ('.Yii::app()->user->name.')', 'url' => Yii::app()->request->baseUrl .'/index.php/site/logout'),
     
@@ -91,17 +91,15 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a class="brand" href="#">ONS Guidebook</a>
+      <a class="brand" id="baseUrl" href="<?php echo Yii::app()->request->baseUrl; ?>">ONS Guidebook</a>
       <div class="nav-collapse">
         <ul class="nav pull-right">
           <?php echo createNavLi('createUser', $urls); ?>
         <?php if (Yii::app()->user->isGuest): ?>
           <?php echo createNavLi('login', $urls); ?>
         <?php else: ?> 
-          <?php echo createNavLi('intro', $urls); ?>
           <?php echo createNavLi('calculator', $urls); ?>
-          <li class="dropdown <? ((strpos($_SERVER['REQUEST_URI'], $urls['profile']['url'])===0)
-                  || (strpos($_SERVER['REQUEST_URI'], $urls['photoGallery']['url'])===0)) ? 'active' : ''?>">
+          <li class="dropdown ">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">My Account <b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="#">My Profile</a></li>
@@ -128,12 +126,12 @@
 	<div class="clear"></div>
 
 	<div id="footer">
-		Copyright &copy; <?php echo date('Y'); ?> by My Company.<br/>
-		All Rights Reserved.<br/>
-		<?php echo Yii::powered(); ?>
+	  <?php if (!Yii::app()->user->isGuest): ?>
+  		<button id="menuButton" class="btn btn-primary">Menu</button>
+		<?php endif; ?>
 	</div><!-- footer -->
 
 </div><!-- page -->
-
+<div id="popupModal"></div>
 </body>
 </html>

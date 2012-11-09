@@ -45,13 +45,27 @@ return array(
 		'urlManager'=>array(
 			'urlFormat'=>'path',
 			'rules'=>array(
-			  'gii'=>'gii',
-        'gii/<controller:\w+>'=>'gii/<controller>',
-        'gii/<controller:\w+>/<action:\w+>'=>'gii/<controller>/<action>',
-				'<controller:\w+>/<id:\d+>'=>'<controller>/view',
-				'<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
-				'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
-			),
+
+        'logout' => 'login/logout',
+        //'<action:\w+>'=>'site/<action>',
+        
+        // not sure these are used for anything (they may be default routes)
+        '<controller:\w+>/<id:\d+>'=>'<controller>/view',
+        '<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
+
+        // supporting the renderType postfix
+        '<controller:\w+>/<action:\w+>\.<renderType:\w+>'=>
+            '<controller>/<action>',
+        '<module:\w+>/<controller:\w+>/<action:\w+>\.<renderType:\w+>' => 
+            '<module>/<controller>/<action>',
+        
+        // default routes???
+        '<controller:\w+>/<action:\w+>'=>array(
+          '<controller>/<action>',
+          //'defaultParams'=>array('renderType'=>'full')
+        ),
+
+    )
 		),
 		
 		
